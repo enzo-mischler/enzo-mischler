@@ -1,7 +1,7 @@
 # Enzo Mischler
 
 **Final-year engineering student at IMT Mines Alès** — Computer Science & AI, International Business Engineering track.
-I work at the point where organisational analysis meets software: understanding how work is actually done, quantifying what it costs, and building the tool that removes the friction.
+I work where organisational analysis meets software: understanding how work is actually done, quantifying what it costs, and building the tool that removes the friction.
 
 Currently looking for a **6-month final-year consulting internship in Switzerland**, starting March 2027.
 
@@ -9,17 +9,18 @@ Currently looking for a **6-month final-year consulting internship in Switzerlan
 
 ### What I've built
 
-**Management platform — Diaconat Bethesda** *(private repository — client production system)*
-A four-month consulting engagement for a non-profit health and social care organisation running 10 facilities, from field audit to production rollout.
+**Management platform for a non-profit health and social care organisation** *(10 facilities · private repository — client production system)*
 
-- 10 stakeholder interviews across six roles, process mapping and quantified friction points
-- Unified finance / HR / operations platform, shipped to production over 8 sprints
-- 3 source systems automated, 400,000+ accounting entries consolidated
-- Django · PostgreSQL · Docker · automated monthly data pipeline · GDPR compliance by design
-- ~240 hours of administrative work recovered per year across the 5 main sites
-- The client renewed the engagement under a 12-month maintenance contract
+A four-month engagement, from field audit to production rollout: mapping how the work was actually done, agreeing priorities with executive management, building the tool, and handing it over to the teams.
 
-The code is not public: it is a live system holding client data.
+- Finance, HR and operations consolidated into a single platform, in production
+- Source systems automated, replacing recurring manual extractions
+- Monthly budget reporting produced from a single accounting import
+- Site directors given continuous access to indicators they previously had to rebuild
+- *Estimated* ~240 hours of administrative work recovered per year across the five main sites
+- **The client renewed the engagement under a 12-month maintenance contract**
+
+The code is not public: it is a live system holding client data. Client name and references available on request.
 
 ---
 
