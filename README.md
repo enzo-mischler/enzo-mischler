@@ -44,9 +44,9 @@ Detecting OFF motor episodes from accelerometric time series, in a single-patien
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**GymTracker**](https://github.com/Enzo123-Byte/GymTracker) | Training and nutrition tracking PWA — 22 JavaScript modules, auth, workout builder, macro tracking, analytics and social features | JavaScript (ES modules) · Supabase · PWA |
-| [**scraping-bonheur-education**](https://github.com/Enzo123-Byte/scraping-bonheur-education) | Building a country-level dataset linking World Happiness Report scores to education indices — scraping, cleaning, consolidation | Python · BeautifulSoup · pandas |
-| [**CalculatriceMVC**](https://github.com/Enzo123-Byte/CalculatriceMVC) | A calculator used to demonstrate a strict MVC architecture, with model, view and controller separated by interfaces | Java |
+| [**GymTracker**](https://github.com/enzo-mischler/GymTracker) | Training and nutrition tracking PWA — 22 JavaScript modules, auth, workout builder, macro tracking, analytics and social features | JavaScript (ES modules) · Supabase · PWA |
+| [**scraping-bonheur-education**](https://github.com/enzo-mischler/scraping-bonheur-education) | Building a country-level dataset linking World Happiness Report scores to education indices — scraping, cleaning, consolidation | Python · BeautifulSoup · pandas |
+| [**CalculatriceMVC**](https://github.com/enzo-mischler/CalculatriceMVC) | A calculator used to demonstrate a strict MVC architecture, with model, view and controller separated by interfaces | Java |
 
 ---
 
